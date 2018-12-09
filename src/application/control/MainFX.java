@@ -13,9 +13,9 @@ import javafx.scene.text.Font;
 
 /*
  * @author Alejandro Agudo
- * @version 3.0 
+ * @version 3.0
  * 
- * 
+ *
  */
 public class MainFX extends Application {
 	
